@@ -10,6 +10,7 @@ status](https://www.r-pkg.org/badges/version/multinma)](https://CRAN.R-project.o
 [![R build
 status](https://github.com/dmphillippo/multinma/workflows/R-CMD-check/badge.svg)](https://github.com/dmphillippo/multinma/actions)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3904454.svg)](https://doi.org/10.5281/zenodo.3904454)
+[![R build status](https://github.com/elong0527/multinma-test/workflows/R-CMD-check/badge.svg)](https://github.com/elong0527/multinma-test/actions)
 <!-- badges: end -->
 
 The `multinma` package implements network meta-analysis, network
